@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   fill="none"
+   width="115"
+   height="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="astro.svg"
+   inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="7.4304348"
+     inkscape:cx="39.836161"
+     inkscape:cy="15.544178"
+     inkscape:window-width="1856"
+     inkscape:window-height="1011"
+     inkscape:window-x="1430"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     fill="#17191e"
+     d="m 4.6746226,34.73502 c -1.37,-1.24 -1.77,-3.84 -1.2,-5.73 0.99,1.2 2.35,1.57 3.75,1.78 2.18,0.33 4.3100004,0.2 6.3300004,-0.78 0.23,-0.12 0.44,-0.27 0.7,-0.42 0.18,0.55 0.23,1.1 0.17,1.67 a 4.56,4.56 0 0 1 -1.94,3.23 c -0.43,0.32 -0.9,0.61 -1.34,0.91 -1.3800004,0.94 -1.7600004,2.03 -1.2400004,3.62 l 0.05,0.17 a 3.63,3.63 0 0 1 -1.6,-1.38 3.87,3.87 0 0 1 -0.63,-2.1 c 0,-0.37 0,-0.74 -0.05,-1.1 -0.13,-0.9 -0.55,-1.3 -1.33,-1.32 a 1.56,1.56 0 0 0 -1.63,1.26 c 0,0.06 -0.03,0.12 -0.05,0.2 z"
+     id="path1" />
+  <path
+     fill="url(#a)"
+     d="m 4.8092043,34.465857 c -1.37,-1.24 -1.77,-3.84 -1.2,-5.73 0.99,1.2 2.35,1.57 3.7499997,1.78 2.18,0.33 4.31,0.2 6.33,-0.78 0.23,-0.12 0.44,-0.27 0.7,-0.42 0.18,0.55 0.23,1.1 0.17,1.67 a 4.56,4.56 0 0 1 -1.94,3.23 c -0.43,0.32 -0.9,0.61 -1.34,0.91 -1.38,0.94 -1.76,2.03 -1.24,3.62 l 0.05,0.17 a 3.63,3.63 0 0 1 -1.6,-1.38 3.87,3.87 0 0 1 -0.63,-2.1 c 0,-0.37 0,-0.74 -0.05,-1.1 -0.13,-0.9 -0.55,-1.3 -1.3299997,-1.32 a 1.56,1.56 0 0 0 -1.63,1.26 c 0,0.06 -0.03,0.12 -0.05,0.2 z"
+     id="path2"
+     style="fill:url(#a)" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="a"
+       x1="6.33"
+       x2="19.43"
+       y1="40.8"
+       y2="34.6"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-2.9607958,-1.8841428)">
+      <stop
+         stop-color="#D83333"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#F041FF"
+         id="stop4" />
+    </linearGradient>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:italic;font-size:25.3375px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Italic';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:1.79557;stroke-linejoin:bevel;paint-order:markers stroke fill"
+     x="-0.12967888"
+     y="27.402054"
+     id="text4"
+     transform="scale(0.99738606,1.0026208)"><tspan
+       sodipodi:role="line"
+       id="tspan4"
+       x="-0.12967888"
+       y="27.402054"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Noto Sans Mono CJK HK';-inkscape-font-specification:'Noto Sans Mono CJK HK Bold';stroke-width:1.79557">CronoSENA</tspan></text>
+</svg>
