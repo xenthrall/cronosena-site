@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    fill="none"
-   width="115"
+   width="130"
    height="48"
    version="1.1"
    id="svg4"
-   sodipodi:docname="astro.svg"
+   sodipodi:docname="cronosena.svg"
    inkscape:version="1.4.2 (2aeb623e1d, 2025-05-12)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -20,9 +20,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="7.4304348"
-     inkscape:cx="39.836161"
-     inkscape:cy="15.544178"
+     inkscape:zoom="5.2541108"
+     inkscape:cx="60.904692"
+     inkscape:cy="14.940682"
      inkscape:window-width="1856"
      inkscape:window-height="1011"
      inkscape:window-x="1430"
@@ -42,10 +42,10 @@
      id="defs4">
     <linearGradient
        id="a"
-       x1="6.33"
+       x1="6.3299999"
        x2="19.43"
-       y1="40.8"
-       y2="34.6"
+       y1="40.799999"
+       y2="34.599998"
        gradientUnits="userSpaceOnUse"
        gradientTransform="translate(-2.9607958,-1.8841428)">
       <stop
