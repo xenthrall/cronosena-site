@@ -5,7 +5,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://xenthrall.github.io/CronoSENA-site/',
+  site: 'https://cronosena.site',
   vite: {
     plugins: [tailwindcss()]
   }
