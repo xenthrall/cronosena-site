@@ -2,8 +2,8 @@
 const {
   title = 'CronoSENA | Programación Académica y Horarios del SENA',
   description = 'CronoSENA es un sistema para gestionar la programación académica y consultar horarios de instructores, fichas y ambientes en centros del SENA.',
-  image = 'https://cronosena.site/og-cronosena.png',
-  canonical = 'https://cronosena.site/',
+  image = 'https://cronosena.com/og-cronosena.png',
+  canonical = 'https://cronosena.com/',
   includeFaq = false
 } = Astro.props;
 ---
@@ -48,22 +48,22 @@ const {
       "@graph": [
         {
           "@type": "WebSite",
-          "@id": "https://cronosena.site/#website",
-          "url": "https://cronosena.site/",
+          "@id": "https://cronosena.com/#website",
+          "url": "https://cronosena.com/",
           "name": "CronoSENA",
           "description": "Sistema de programación académica y consulta de horarios del SENA",
           "inLanguage": "es-CO",
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://cronosena.site/?q={search_term_string}",
+            "target": "https://cronosena.com/?q={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         },
         {
           "@type": "SoftwareApplication",
-          "@id": "https://cronosena.site/#software",
+          "@id": "https://cronosena.com/#software",
           "name": "CronoSENA",
-          "url": "https://cronosena.site/",
+          "url": "https://cronosena.com/",
           "description": "Sistema para la gestión de programación académica, horarios de instructores, fichas y ambientes del SENA.",
           "applicationCategory": "EducationalApplication",
           "operatingSystem": "Web",
@@ -80,11 +80,11 @@ const {
         },
         {
           "@type": "Organization",
-          "@id": "https://cronosena.site/#organization",
+          "@id": "https://cronosena.com/#organization",
           "name": "CronoSENA",
-          "url": "https://cronosena.site/",
-          "logo": "https://cronosena.site/logo-192.png",
-          "image": "https://cronosena.site/og-cronosena.png",
+          "url": "https://cronosena.com/",
+          "logo": "https://cronosena.com/logo-192.png",
+          "image": "https://cronosena.com/og-cronosena.png",
           "founder": {
             "@type": "Person",
             "name": "Xenthrall",
@@ -94,7 +94,7 @@ const {
         ${includeFaq ? `,
         {
           "@type": "FAQPage",
-          "@id": "https://cronosena.site/#faq",
+          "@id": "https://cronosena.com/#faq",
           "mainEntity": [
             {
               "@type": "Question",
