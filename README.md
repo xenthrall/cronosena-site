@@ -2,14 +2,14 @@
 
 **Portal oficial del proyecto CronoSENA**, una iniciativa para centralizar, conectar y modernizar la gestión académica y tecnológica de los centros de formación del **SENA** 🇨🇴.
 
-Este repositorio contiene el código fuente del **sitio web público** (`https://cronosena.site`), una página estática desarrollada con **[Astro](https://astro.build)** y **TailwindCSS**, enfocada en velocidad, SEO y escalabilidad.
+Este repositorio contiene el código fuente del **sitio web público** (`https://cronosena.com`), una página estática desarrollada con **[Astro](https://astro.build)** y **TailwindCSS**, enfocada en velocidad, SEO y escalabilidad.
 
 ---
 
 ## 🚀 Visión del proyecto
 
 CronoSENA busca crear un ecosistema modular que conecte a los centros de formación del SENA mediante una infraestructura distribuida.  
-Cada centro puede tener su propio sistema independiente (por ejemplo, `cata.cronosena.site`) mientras comparte un portal común que actúa como **hub informativo y de acceso**.
+Cada centro puede tener su propio sistema independiente (por ejemplo, `cata.cronosena.com`) mientras comparte un portal común que actúa como **hub informativo y de acceso**.
 
 **Objetivos del portal:**
 - Servir como punto de entrada al ecosistema CronoSENA.
@@ -36,7 +36,7 @@ Cada centro puede tener su propio sistema independiente (por ejemplo, `cata.cron
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/xenthrall/CronoSENA-site.git
+git clone https://github.com/xenthrall/cronosena-site.git
 cd CronoSENA-site
 ```
 
@@ -83,4 +83,4 @@ Este desarrollo fue liderado por un equipo bajo el pseudónimo **xenthrall**, co
 > Es un sistema formativo desarrollado con fines académicos, implementado y probado en contexto real dentro del CATA.
 
 💡 ¿Quieres contribuir, reportar un problema o proponer mejoras?  
-Visita el repositorio oficial en GitHub: [xenthrall/CronoSENA](https://github.com/xenthrall/CronoSENA)
+Visita el repositorio oficial en GitHub: [xenthrall/CronoSENA](https://github.com/xenthrall/cronosena)
